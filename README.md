@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Anas12312
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning ASP.Net Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
